@@ -1,0 +1,1 @@
+{'Name': 'Adarsh', 'DOB': '01/01/2000', 'PAN': 4555956, 'AAdhar_NO': '59782184214', 'ATM_PIN': '8576', 'Card_no': '9676466843142948', 'Email_id': 'adarsh12345@gmail.com', 'Ac_Bal': 0.0, 'txt': {}}

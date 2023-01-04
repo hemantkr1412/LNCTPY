@@ -1,0 +1,1 @@
+{'Name': 'arya ojha', 'DOB': '02-02-2000', 'PAN': 123456789, 'AAdhar_NO': '1234567898', 'ATM_PIN': '9470', 'Card_no': '4119710608006480', 'Email_id': 'abhigyaarya09@gmail.com', 'Ac_Bal': 5000.0, 'txt': {'txt001': '5000Cr'}, 'txt_count': 1}

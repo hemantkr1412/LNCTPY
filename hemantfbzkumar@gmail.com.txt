@@ -1,0 +1,1 @@
+{'Name': 'hemant', 'DOB': '08/01/2000', 'PAN': 655515, 'AAdhar_NO': '648511', 'ATM_PIN': '2295', 'Card_no': '5554531703380361', 'Email_id': 'hemantfbzkumar@gmail.com', 'Ac_Bal': 500.0, 'txt': {'txt001': '500Cr'}, 'txt_count': 1}
